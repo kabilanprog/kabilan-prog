@@ -37,7 +37,7 @@
 
 - ## Workspace Spec
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/kabilan-prog?theme=forest&font=Mukta&ext=contest)
-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kabilan-prog&bg_color=f7f7f7&color=000000&line=0f0012&point=4f61ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
