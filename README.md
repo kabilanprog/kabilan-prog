@@ -4,23 +4,34 @@
   ## IT Student 
   <img align="right" width="350px" hight="100px" src="https://cdn.pixabay.com/photo/2024/04/01/13/21/ai-generated-8668923_1280.jpg"/>
 
- 
-- 👀 I’m interested AI Development...
-- 🌱 I’m currently learning. Django ...
-- 💞 I’m looking to collaborate on:
-    - Exciting web development projects.
-    - Open-source initiatives that make an impact.
-    - Innovative ideas in Django, other modern web technologies.
-    - Anything that involves learning and growing together!
-- 📫 How to reach me:
 
-- 😄 Pronouns: Const
+👀 **Interests**  
+AI Development · Web Development · Open Source  
 
+🌱 **Currently Learning**  
+Django & modern web technologies  
 
-- ⚡ Fun fact:
-    - I can code faster than I can type (well, almost)!.
-    - I once debugged an entire project using just caffeine and a playlist of 80s rock.
-    - My favorite tool is [VS Code](https://code.visualstudio.com/)—and yes, I think its themes are underrated!.
+💞 **Looking to Collaborate On**  
+- Exciting web development projects  
+- Open-source initiatives that create impact  
+- Django + AI driven innovations  
+- Projects where learning & growth go hand-in-hand  
+
+📫 **How to Reach Me**  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](your-github-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)  
+
+😄 **Pronouns**  
+Const  
+
+⚡ **Fun Facts**  
+- I can code faster than I type (almost 😅)  
+- Debugging marathons = coffee + 80s rock 🎸  
+- VS Code is my go-to tool (its themes are underrated!)  
+
+---
+
  
   
   ## 🚀 Projects  
